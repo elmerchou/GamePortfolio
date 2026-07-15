@@ -51,7 +51,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
             }
 
             // Update the UI text display
-            timerText.text = "TIME：" + currentTimeI;
+            timerText.text = "TIME:" + currentTimeI;
             //Debug.Log(currentTimeI);
         }
 

@@ -12,8 +12,8 @@ public class score : MonoBehaviour
     public Text scoreText;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
+    {
         scoreText.text = "SCORE:00000000";
-        scoreText.text = "SCORE：00000000";
         currentscore = 0;
     }
 

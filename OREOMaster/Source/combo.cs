@@ -107,11 +107,11 @@ public class combo : MonoBehaviour
         if(comboAmount != 0)
         {
             if (comboAmount < 10) {
-                comboString = "Combo：0" + comboAmount;
+                comboString = "Combo:0" + comboAmount;
             }
             else
             {
-                comboString = "Combo：" + comboAmount;
+                comboString = "Combo:" + comboAmount;
             }
                
             StopAllCoroutines(); // Stop any previously running coroutine
@@ -123,7 +123,7 @@ public class combo : MonoBehaviour
     public void ComboReset()
     {
         
-        //comboString = "Combo：" + comboAmount;
+        //comboString = "Combo:" + comboAmount;
         StopAllCoroutines(); // Stop any previously running coroutine
         if(comboAmount!= 0)
         {
