@@ -8,7 +8,7 @@
 
 ## プレイ動画
 
-[PlayMovie.mp4](./JankenMan/PlayMovie.mp4)
+<video src="./JankenMan/PlayMovie.mp4" controls width="600"></video>
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -21,7 +21,7 @@
 
 ## プレイ動画
 
-[PlayMovie.mp4](./SoKoBan/PlayMovie.mp4)
+<video src="./SoKoBan/PlayMovie.mp4" controls width="600"></video>
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -34,7 +34,7 @@
 
 ## プレイ動画
 
-[PlayMovie.mp4](./OREOMaster/PlayMovie.mp4)
+<video src="./OREOMaster/PlayMovie.mp4" controls width="600"></video>
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -47,9 +47,10 @@
 
 ## プレイ動画
 
-[PlayMovie.mp4](./HoneyBeeSweetie/PlayMovie.mp4)
+<video src="./HoneyBeeSweetie/PlayMovie.mp4" controls width="600"></video>
 
 - 制作者：周世熹
 - 制作人数：個人制作
 - 制作期間：TODO
 - 開発環境：TODO
+
