@@ -4,11 +4,15 @@
 
 ## Works
 
-# [JankenMan](./JankenMan)
+# [ジャンケンマン](./JankenMan)
 
 ## プレイ動画
 
-<video src="./JankenMan/PlayMovie.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/20cafa75-3a32-4f48-8865-c07fc4d69203
+
+
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -17,11 +21,15 @@
 
 ---
 
-# [SoKoBan](./SoKoBan)
+# [倉庫番](./SoKoBan)
 
 ## プレイ動画
 
-<video src="./SoKoBan/PlayMovie.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/42671f3c-7ea2-4bb1-b83a-7ea85fa154f3
+
+
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -30,11 +38,15 @@
 
 ---
 
-# [OREOMaster](./OREOMaster)
+# [OREO Master](./OREOMaster)
 
 ## プレイ動画
 
-<video src="./OREOMaster/PlayMovie.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/5418a6eb-adf6-42ea-9e5b-7459f3d9711b
+
+
 
 - 制作者：周世熹
 - 制作人数：個人制作
@@ -43,11 +55,15 @@
 
 ---
 
-# [HoneyBeeSweetie](./HoneyBeeSweetie)
+# [蜜花大作戰](./HoneyBeeSweetie)
 
 ## プレイ動画
 
-<video src="./HoneyBeeSweetie/PlayMovie.mp4" controls width="600"></video>
+
+
+https://github.com/user-attachments/assets/14313e95-2793-41f4-b5dd-cad1e56f9d4f
+
+
 
 - 制作者：周世熹
 - 制作人数：個人制作
